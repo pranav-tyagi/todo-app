@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background-image: linear-gradient( 181.2deg,  rgba(181,239,249,1) 10.5%, rgba(254,254,254,1) 86.8% );
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.my-btn{
+  margin:5px;
+}
+.mytable{
+  border: 1px solid black;
+  padding: 1em;
+  width: 100%;
+}
+tr,td,th{
+  border: 1px solid black;
+  padding: 1em;
+}
+.main-page{
+text-align: center;
+line-height: 1.5em;
+}
+.login-heading{
+  padding: 0.5em;
+  text-align: center;
+ font-family:"Comic Sans MS","serif"," Arial";
+ font-size: 5em;
+}
+.edit-heading{
+  padding: 0.5em;
+  text-align: center;
+ font-family:"Comic Sans MS","serif"," Arial";
+ font-size: 2em;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.login-container{
+  margin-top: 2em;
+}
+
+.login-card{
+  text-align: center;
+  
+}
